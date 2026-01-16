@@ -35,3 +35,44 @@ To build and evaluate a decision tree model for classification and gain hands-on
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 🔄 Workflow
+1. Import required libraries  
+2. Load dataset  
+3. Split data into training and testing sets  
+4. Train Decision Tree Classifier  
+5. Evaluate using accuracy score and confusion matrix  
+6. Visualize the decision tree  
+
+---
+
+## 📊 Model Evaluation
+The performance of the model is evaluated using:
+- Accuracy Score
+- Confusion Matrix
+
+These metrics help understand how well the classifier predicts unseen data.
+
+---
+
+## ▶️ How to Run the Project
+1. Open `decision_tree_01.ipynb`
+2. Click **Open in Colab**
+3. Run all cells sequentially
+
+---
+
+## 🚀 Future Improvements
+- Hyperparameter tuning (max_depth, min_samples_split)
+- Cross-validation
+- Comparison with Random Forest and Logistic Regression
+- Feature importance analysis
+
+---
+
+## 👤 Author
+**Abdulla Basheer**  
+Machine Learning | Data Science
+
